@@ -1,0 +1,14 @@
+D:\работы VS\Безумный Лари\Project5\Project5\bin\Debug\net8.0\Project5.exe
+D:\работы VS\Безумный Лари\Project5\Project5\bin\Debug\net8.0\Project5.deps.json
+D:\работы VS\Безумный Лари\Project5\Project5\bin\Debug\net8.0\Project5.runtimeconfig.json
+D:\работы VS\Безумный Лари\Project5\Project5\bin\Debug\net8.0\Project5.dll
+D:\работы VS\Безумный Лари\Project5\Project5\bin\Debug\net8.0\Project5.pdb
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\Project5.GeneratedMSBuildEditorConfig.editorconfig
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\Project5.AssemblyInfoInputs.cache
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\Project5.AssemblyInfo.cs
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\Project5.csproj.CoreCompileInputs.cache
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\Project5.dll
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\refint\Project5.dll
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\Project5.pdb
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\Project5.genruntimeconfig.cache
+D:\работы VS\Безумный Лари\Project5\Project5\obj\Debug\net8.0\ref\Project5.dll
